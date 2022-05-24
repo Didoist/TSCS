@@ -1,4 +1,0 @@
-﻿  Loader.cpp
-D:\Progremmierungen\DidoCS_Premium_Injektor\Injector\Loader.cpp(15,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-D:\Progremmierungen\DidoCS_Premium_Injektor\Injector\functions.h(55): warning C4715: "Functions::GetModuleBaseAddress": Nicht alle Codepfade geben einen Wert zurück.
-  Loader.vcxproj -> D:\Progremmierungen\DidoCS_Premium_Injektor\Injector\Debug\Loader.exe
